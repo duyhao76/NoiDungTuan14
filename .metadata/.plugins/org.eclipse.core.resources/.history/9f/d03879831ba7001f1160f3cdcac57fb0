@@ -1,0 +1,5 @@
+package vn.DuyHao.repositories;
+
+public interface UserInfoRepository {
+
+}

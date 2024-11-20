@@ -1,0 +1,5 @@
+package vn.DuyHao.Models;
+
+public class Customer {
+
+}
